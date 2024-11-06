@@ -23,58 +23,58 @@
     <tr>
         <td>
             <a href="https://github.com/Fran3021/Header-01-Bussines-Agency">Header 01
-            <img src="../headers/portadas/portada-header-01.jpg" alt="">
+            <img src="/portadas/portada-header-01.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Header-02-Creative-Company">Header 02
-            <img src="../headers/portadas/portada-header-02.jpg" alt="">
+            <img src="/portadas/portada-header-02.jpg" alt="">
             </a>
         </td>
                 <td>
             <a href="https://github.com/Fran3021/Header-03-Coworking-Space">Header 03
-            <img src="../headers/portadas/portada-header-03.jpg" alt="">
+            <img src="/portadas/portada-header-03.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Header-04-NFT-Marketplace">Header 04
-            <img src="../headers/portadas/portada-header-04.jpg" alt="">
+            <img src="/portadas/portada-header-04.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Header-05-Grocery-Store">Header 05
-            <img src="../headers/portadas/portada-header-05.jpg" alt="">
+            <img src="/portadas/portada-header-05.jpg" alt="">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/Fran3021/Header-06-Spa-Beauty">Header 06
-            <img src="../headers/portadas/portada-header-06.jpg" alt="">
+            <img src="/portadas/portada-header-06.jpg" alt="">
             </a>
         </td>
             <td>
             <a href="https://github.com/Fran3021/Header-07-Header-Architecture">
             Header 07
-            <img src="../headers/portadas/portada-header-07.jpg" alt="">
+            <img src="/portadas/portada-header-07.jpg" alt="">
             </a>
         </td>
             <td>
             <a href="https://github.com/Fran3021/Header-08-Personal-Portfolio">
             Header 08
-            <img src="../headers/portadas/portada-header-08.jpg" alt="">
+            <img src="/portadas/portada-header-08.jpg" alt="">
             </a>
         </td>
             <td>
             <a href="https://github.com/Fran3021/Header-09-Personal-Portfolio2">
             Header 09
-            <img src="../headers/portadas/portada-header-09.jpg" alt="">
+            <img src="/portadas/portada-header-09.jpg" alt="">
             </a>
         </td>
             <td>
             <a href="https://github.com/Fran3021/Header-10-Online-Forum">
             Header 10
-            <img src="../headers/portadas/portada-header-10.jpg" alt="">
+            <img src="/portadas/portada-header-10.jpg" alt="">
             </a>
         </td>
     </tr>
